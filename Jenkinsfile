@@ -25,6 +25,6 @@ node {
 							   Job Name: ${env.JOB_NAME}
 
 Thanks,
-DevOps Team""", cc: '', from: '', replyTo: '', subject: "${env.JOB_NAME} Success", to: 'neelimagopireddy@gmail.com'   
+DevOps Team""", cc: '', from: '', replyTo: '', subject: "${env.JOB_NAME} Success", to: 'bonthaneelimareddy@gmail.com'   
 }
 }
